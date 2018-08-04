@@ -1,0 +1,15 @@
+apply plugin: 'com.android.instantapp'
+
+dependencies {
+    implementation project(':feature')
+    implementation project(':base')
+}
+
+android {
+    defaultConfig {
+        versionCode 2
+        versionName '2.0'
+    }
+    productFlavors {
+    }
+}

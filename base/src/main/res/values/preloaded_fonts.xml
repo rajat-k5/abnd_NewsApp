@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/carrois_gothic_sc</item>
+        <item>@font/coustard_black</item>
+        <item>@font/lato</item>
+        <item>@font/lato_bold</item>
+        <item>@font/merienda_one</item>
+        <item>@font/nosifer</item>
+    </array>
+</resources>
